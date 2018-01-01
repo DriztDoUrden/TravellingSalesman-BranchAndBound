@@ -48,7 +48,7 @@ namespace Pea_brute
         }
         public static int LoadSize(string path)
         {
-            string patch = @"D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\" + path;
+            string patch = @"D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\Cities\" + path;
             StreamReader sr = new StreamReader(patch + ".txt");
             int size = Int32.Parse(sr.ReadLine());
             return size;
@@ -57,7 +57,7 @@ namespace Pea_brute
         {
             Graph graph = new Graph();
 
-            string patch = @"D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\" + path;
+            string patch = @"D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\Cities\" + path;
             StreamReader sr = new StreamReader(patch + ".txt");
             size = Int32.Parse(sr.ReadLine());
             string text;

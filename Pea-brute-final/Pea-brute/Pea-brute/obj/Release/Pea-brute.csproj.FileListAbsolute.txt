@@ -13,3 +13,6 @@ D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.csprojResolveAs
 E:\Pea-brute-final\Pea-brute\Pea-brute\bin\Release\Pea-brute.exe.config
 E:\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.exe
 E:\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.pdb
+D:\GIT\TravellingSalesman-BranchAndBound\Pea-brute-final\Pea-brute\Pea-brute\bin\Release\Pea-brute.exe.config
+D:\GIT\TravellingSalesman-BranchAndBound\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.exe
+D:\GIT\TravellingSalesman-BranchAndBound\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.pdb
