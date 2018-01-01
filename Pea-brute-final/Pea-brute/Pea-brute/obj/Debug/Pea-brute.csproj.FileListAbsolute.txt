@@ -1,0 +1,17 @@
+c:\users\kijwoku\documents\visual studio 2015\Projects\Pea-brute\Pea-brute\bin\Debug\Pea-brute.exe.config
+c:\users\kijwoku\documents\visual studio 2015\Projects\Pea-brute\Pea-brute\bin\Debug\Pea-brute.exe
+c:\users\kijwoku\documents\visual studio 2015\Projects\Pea-brute\Pea-brute\bin\Debug\Pea-brute.pdb
+c:\users\kijwoku\documents\visual studio 2015\Projects\Pea-brute\Pea-brute\obj\Debug\Pea-brute.csprojResolveAssemblyReference.cache
+c:\users\kijwoku\documents\visual studio 2015\Projects\Pea-brute\Pea-brute\obj\Debug\Pea-brute.exe
+c:\users\kijwoku\documents\visual studio 2015\Projects\Pea-brute\Pea-brute\obj\Debug\Pea-brute.pdb
+D:\Pwr\PEA\Pea-brute\Pea-brute\bin\Debug\Pea-brute.exe.config
+D:\Pwr\PEA\Pea-brute\Pea-brute\obj\Debug\Pea-brute.exe
+D:\Pwr\PEA\Pea-brute\Pea-brute\obj\Debug\Pea-brute.pdb
+D:\Pwr\PEA\Pea-brute\Pea-brute\bin\Debug\Pea-brute.exe
+D:\Pwr\PEA\Pea-brute\Pea-brute\bin\Debug\Pea-brute.pdb
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\bin\Debug\Pea-brute.exe.config
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\obj\Debug\Pea-brute.exe
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\obj\Debug\Pea-brute.pdb
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\obj\Debug\Pea-brute.csprojResolveAssemblyReference.cache
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\bin\Debug\Pea-brute.exe
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\bin\Debug\Pea-brute.pdb

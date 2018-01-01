@@ -1,0 +1,15 @@
+D:\Pwr\PEA\Pea-brute\Pea-brute\bin\Release\Pea-brute.exe.config
+D:\Pwr\PEA\Pea-brute\Pea-brute\bin\Release\Pea-brute.exe
+D:\Pwr\PEA\Pea-brute\Pea-brute\bin\Release\Pea-brute.pdb
+D:\Pwr\PEA\Pea-brute\Pea-brute\obj\Release\Pea-brute.exe
+D:\Pwr\PEA\Pea-brute\Pea-brute\obj\Release\Pea-brute.pdb
+D:\Pwr\PEA\Pea-brute\Pea-brute\obj\Release\Pea-brute.csprojResolveAssemblyReference.cache
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\bin\Release\Pea-brute.exe.config
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.exe
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.pdb
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\bin\Release\Pea-brute.exe
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\bin\Release\Pea-brute.pdb
+D:\PEA\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.csprojResolveAssemblyReference.cache
+E:\Pea-brute-final\Pea-brute\Pea-brute\bin\Release\Pea-brute.exe.config
+E:\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.exe
+E:\Pea-brute-final\Pea-brute\Pea-brute\obj\Release\Pea-brute.pdb
